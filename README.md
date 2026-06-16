@@ -67,7 +67,7 @@ SmartShield helps IT administrators at colleges/offices:
 
 👨‍💻 Authors
 
-* N. Lahiri
+* N. Vineetha
 * Built for Hackathon 2025
 
 ---
